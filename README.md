@@ -14,19 +14,25 @@ Un "Sock Puppet" es un término utilizado en internet para referirse a una ident
 
 El primer paso será instalar una máquina virtual completamente limpia con windows. Esta máquina no puede tener ningún vinculo con tus datos personales. 
 
-![1](https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/7b8ddbfc-40df-464d-81bc-9da2f74a78b7)
+<p align="center">
+<img src='https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/7b8ddbfc-40df-464d-81bc-9da2f74a78b7' width='700'>
+</p>
 
 Instalaremos una VPN para proteger nuestra identidad. En este caso usaremos ProtonVPN y nos conectaremos a Netherlands.
 
-![2](https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/fbbae4e2-f3f6-4142-8ed1-504d17386060)
+<p align="center">
+<img src='https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/fbbae4e2-f3f6-4142-8ed1-504d17386060' width='700'>
+</p>
 
 Utilizaremos la web [fakenamegenerator](https://es.fakenamegenerator.com) para generar los datos de un persona inexistente.
 
-![3](https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/66a25d0d-f224-48e8-bbb5-3ccb10dab335)
+<p align="center">
+<img src='https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/66a25d0d-f224-48e8-bbb5-3ccb10dab335' width='700'>
+</p>
 
 Ahora generaremos la foto que usaremos con [thispersondoesnotexist.com](https://thispersondoesnotexist.com)
 
 <p align="center">
-<img src='https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/cf81d5d1-2b42-4ed5-98ad-ab0dd547b842' width='350'>
+<img src='https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/4b9b211c-e24d-4ce1-baee-83cdd7767bb3' width='350'>
 </p>
 
