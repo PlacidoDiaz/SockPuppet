@@ -10,5 +10,18 @@ Un "Sock Puppet" es un término utilizado en internet para referirse a una ident
 
 3. **Manipulación de debates en línea:** Los Sock Puppets pueden ser utilizados para influir en discusiones en línea y dirigir la conversación hacia ciertos temas o puntos de vista.
 
+### Proceso de Creación
 
+El primer paso será instalar una máquina virtual completamente limpia con windows. Esta máquina no puede tener ningún vinculo con tus datos personales. 
 
+![1](https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/7b8ddbfc-40df-464d-81bc-9da2f74a78b7)
+
+Instalaremos una VPN para proteger nuestra identidad. En este caso usaremos ProtonVPN y nos conectaremos a Netherlands.
+
+![2](https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/fbbae4e2-f3f6-4142-8ed1-504d17386060)
+
+Utilizaremos la web [fakenamegenerator](https://es.fakenamegenerator.com) para generar los datos de un persona inexistente.
+
+![3](https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/66a25d0d-f224-48e8-bbb5-3ccb10dab335)
+
+Ahora generaremos una imagen
