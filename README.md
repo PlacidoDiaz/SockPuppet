@@ -30,9 +30,14 @@ Utilizaremos la web [fakenamegenerator](https://es.fakenamegenerator.com) para g
 <img src='https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/66a25d0d-f224-48e8-bbb5-3ccb10dab335' width='700'>
 </p>
 
-Ahora generaremos la foto que usaremos con [thispersondoesnotexist.com](https://thispersondoesnotexist.com)
+Ahora generaremos a la persona usando, [thispersondoesnotexist.com](https://thispersondoesnotexist.com)
 
 <p align="center">
 <img src='https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/4b9b211c-e24d-4ce1-baee-83cdd7767bb3' width='350'>
 </p>
 
+Una vez tengamos los datos necesarios, crearemos una cuenta en alguna red social. He elegido Instagram, este sería el resultado.
+
+<p align="center">
+<img src='https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/69e4f81e-afb1-4283-96c0-c8f8195f5e67' width='700'>
+</p>
