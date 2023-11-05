@@ -17,32 +17,57 @@ Para comenzar, el procedimiento inicial implica la configuración de una máquin
 <!-- <p align="center">
 <img src='https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/7b8ddbfc-40df-464d-81bc-9da2f74a78b7' width='700'>
 </p> -->
-![1](https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/7b8ddbfc-40df-464d-81bc-9da2f74a78b7)
+
+<!-- ![1](https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/7b8ddbfc-40df-464d-81bc-9da2f74a78b7) -->
+
+<p align="center">
+<img src='img/1.jpg' width='700'>
+</p>
 
 Implementaremos una red privada virtual (VPN) para mantener la confidencialidad de nuestra actividad en línea. En este escenario específico, hemos optado por la utilización de ProtonVPN para garantizar un nivel óptimo de seguridad. Asimismo, nos conectaremos a un servidor ubicado en los Países Bajos, lo que nos permitirá enmascarar nuestra ubicación física y reforzar aún más la protección de nuestros datos y actividades en línea.
 
 <!-- <p align="center">
 <img src='https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/fbbae4e2-f3f6-4142-8ed1-504d17386060' width='700'>
 </p> -->
-![2](https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/fbbae4e2-f3f6-4142-8ed1-504d17386060)
+
+<!-- ![2](https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/fbbae4e2-f3f6-4142-8ed1-504d17386060) -->
+
+<p align="center">
+<img src='img/2.png' width='700'>
+</p>
 
 Utilizaremos la web [fakenamegenerator](https://es.fakenamegenerator.com) para generar los datos de un persona inexistente.
 
 <!-- <p align="center">
 <img src='https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/66a25d0d-f224-48e8-bbb5-3ccb10dab335' width='700'>
 </p> -->
-![3](https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/66a25d0d-f224-48e8-bbb5-3ccb10dab335)
+
+<!-- ![3](https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/66a25d0d-f224-48e8-bbb5-3ccb10dab335) -->
+
+<p align="center">
+<img src='img/3.jpg' width='700'>
+</p>
 
 Ahora generaremos a la persona usando, [thispersondoesnotexist.com](https://thispersondoesnotexist.com)
 
 <!-- <p align="center">
 <img src='https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/4b9b211c-e24d-4ce1-baee-83cdd7767bb3' width='350'>
 </p> -->
-![4](https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/4b9b211c-e24d-4ce1-baee-83cdd7767bb3)
+
+<!-- ![4](https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/4b9b211c-e24d-4ce1-baee-83cdd7767bb3) -->
+
+<p align="center">
+<img src='img/4.jpg' width='350'>
+</p>
 
 Una vez que recopilamos los datos requeridos, procedimos a la creación de una cuenta en una plataforma de redes sociales. En este caso, se optó por Instagram como el medio principal para exhibir y promocionar nuestro contenido artístico. La cuenta fue creada y se publicó una pintura. Además, se llevó a cabo la acción de seguir cuentas destacadas de artistas y entusiastas del arte, especialmente de la región de los Países Bajos
 
 <!-- <p align="center">
 <img src='https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/69e4f81e-afb1-4283-96c0-c8f8195f5e67' width='700'>
 </p> -->
-![5](https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/69e4f81e-afb1-4283-96c0-c8f8195f5e67)
+
+<!-- ![5](https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/69e4f81e-afb1-4283-96c0-c8f8195f5e67) -->
+
+<p align="center">
+<img src='img/5.jpg' width='700'>
+</p>
