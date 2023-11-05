@@ -45,4 +45,4 @@ Una vez que recopilamos los datos requeridos, procedimos a la creación de una c
 <!-- <p align="center">
 <img src='https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/69e4f81e-afb1-4283-96c0-c8f8195f5e67' width='700'>
 </p> -->
-![5](https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/7b8ddbfc-40df-464d-81bc-9da2f74a78b7)
+![5](https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/69e4f81e-afb1-4283-96c0-c8f8195f5e67)
