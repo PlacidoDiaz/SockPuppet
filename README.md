@@ -24,4 +24,9 @@ Utilizaremos la web [fakenamegenerator](https://es.fakenamegenerator.com) para g
 
 ![3](https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/66a25d0d-f224-48e8-bbb5-3ccb10dab335)
 
-Ahora generaremos una imagen
+Ahora generaremos la foto que usaremos con [thispersondoesnotexist.com](https://thispersondoesnotexist.com)
+
+<p align="center">
+<img src='https://github.com/PlacidoDiaz/SockPuppet/assets/86500067/cf81d5d1-2b42-4ed5-98ad-ab0dd547b842' width='350'>
+</p>
+
